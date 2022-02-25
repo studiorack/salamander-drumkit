@@ -1,6 +1,6 @@
 # Salmander Drumkit
 
-Author: Multiple authors
+Author: Rytmenpinne
 
 
 ## Description
@@ -29,7 +29,7 @@ Cymbals:
 * Stagg 16" SH crash (crash3)
 * Masterworks 20" Custom china (china1)
 
-Source: [https://archive.org/details/SalamanderDrumkit](https://archive.org/details/SalamanderDrumkit)
+Source: [https://rytmenpinne.wordpress.com/sounds-and-such/salamander-drumkit](https://rytmenpinne.wordpress.com/sounds-and-such/salamander-drumkit)
 
 
 ## Installation
