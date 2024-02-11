@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="volume" value="-12" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="52" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="91" />
+	<opcode name="hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_FF_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_FF_2.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_FF_3.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_FF_4.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-12" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="52" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="90" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_MP_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.12" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_MP_2.ogg" />
+	<opcode name="lorand" value="0.12" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_MP_3.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.36" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_MP_4.ogg" />
+	<opcode name="lorand" value="0.36" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_MP_5.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.60" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_MP_6.ogg" />
+	<opcode name="lorand" value="0.60" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_MP_7.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.84" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1_OH_MP_8.ogg" />
+	<opcode name="lorand" value="0.84" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-12" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="53" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride1Bell_OH_F_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.18" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1Bell_OH_F_2.ogg" />
+	<opcode name="lorand" value="0.18" />
+	<opcode name="hirand" value="0.26" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1Bell_OH_F_3.ogg" />
+	<opcode name="lorand" value="0.26" />
+	<opcode name="hirand" value="0.45" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1Bell_OH_F_4.ogg" />
+	<opcode name="lorand" value="0.45" />
+	<opcode name="hirand" value="0.68" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1Bell_OH_F_5.ogg" />
+	<opcode name="lorand" value="0.68" />
+	<opcode name="hirand" value="0.85" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride1Bell_OH_F_6.ogg" />
+	<opcode name="lorand" value="0.85" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-12" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="48" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="81" />
+	<opcode name="hivel" value="127" />
+	<opcode name="off_mode" value="normal" />
+	<opcode name="off_by" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_FF_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_FF_2.ogg" />
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_FF_3.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_FF_4.ogg" />
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.8" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_FF_5.ogg" />
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-12" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="48" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="31" />
+	<opcode name="hivel" value="80" />
+	<opcode name="off_mode" value="normal" />
+	<opcode name="off_by" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_MP_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.12" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_MP_2.ogg" />
+	<opcode name="lorand" value="0.12" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_MP_3.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.36" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_MP_4.ogg" />
+	<opcode name="lorand" value="0.36" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_MP_5.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.60" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_MP_6.ogg" />
+	<opcode name="lorand" value="0.60" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_MP_7.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.84" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_MP_8.ogg" />
+	<opcode name="lorand" value="0.84" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-12" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="48" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="30" />
+	<opcode name="off_mode" value="normal" />
+	<opcode name="off_by" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_PP_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.25" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_PP_2.ogg" />
+	<opcode name="lorand" value="0.25" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_PP_3.ogg" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.75" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2_OH_PP_4.ogg" />
+	<opcode name="lorand" value="0.75" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-12" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="49" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="127" />
+	<opcode name="off_mode" value="normal" />
+	<opcode name="off_by" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride2Bell_OH_F_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.18" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Bell_OH_F_2.ogg" />
+	<opcode name="lorand" value="0.18" />
+	<opcode name="hirand" value="0.26" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Bell_OH_F_3.ogg" />
+	<opcode name="lorand" value="0.26" />
+	<opcode name="hirand" value="0.45" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Bell_OH_F_4.ogg" />
+	<opcode name="lorand" value="0.45" />
+	<opcode name="hirand" value="0.68" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Bell_OH_F_5.ogg" />
+	<opcode name="lorand" value="0.68" />
+	<opcode name="hirand" value="0.85" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Bell_OH_F_6.ogg" />
+	<opcode name="lorand" value="0.85" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-16" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="key" value="50" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="60" />
+	<opcode name="hivel" value="127" />
+	<opcode name="off_mode" value="normal" />
+	<opcode name="off_by" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_FF_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.18" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_FF_2.ogg" />
+	<opcode name="lorand" value="0.18" />
+	<opcode name="hirand" value="0.26" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_FF_3.ogg" />
+	<opcode name="lorand" value="0.26" />
+	<opcode name="hirand" value="0.45" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_FF_4.ogg" />
+	<opcode name="lorand" value="0.45" />
+	<opcode name="hirand" value="0.68" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_FF_5.ogg" />
+	<opcode name="lorand" value="0.68" />
+	<opcode name="hirand" value="0.85" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_FF_6.ogg" />
+	<opcode name="lorand" value="0.85" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-16" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="key" value="50" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="59" />
+	<opcode name="off_mode" value="normal" />
+	<opcode name="off_by" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_MP_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.33" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_MP_2.ogg" />
+	<opcode name="lorand" value="0.33" />
+	<opcode name="hirand" value="0.66" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\ride2Crash_OH_MP_3.ogg" />
+	<opcode name="lorand" value="0.66" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-30" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="key" value="51" />
+	<opcode name="group" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\ride2CrashChoke_OH_F_1.ogg" />
+</region>

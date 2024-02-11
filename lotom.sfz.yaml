@@ -1,0 +1,428 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_FF_1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_FF_2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_FF_3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_FF_4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_FF_5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_FF_6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_FF_7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_FF_8.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '31'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_8.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_9.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_MP_10.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '30'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_PP_1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_PP_2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_PP_3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_PP_4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_PP_5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\loTom_OH_PP_6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+

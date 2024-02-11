@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="volume" value="-3" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="43" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+	<opcode name="seq_length" value="8" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_FF_1.ogg" />
+	<opcode name="seq_position" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_FF_2.ogg" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_FF_3.ogg" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_FF_4.ogg" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_FF_5.ogg" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_FF_6.ogg" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_FF_7.ogg" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_FF_8.ogg" />
+	<opcode name="seq_position" value="8" />
+</region>
+<group>
+	<opcode name="volume" value="-3" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="43" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="31" />
+	<opcode name="hivel" value="79" />
+	<opcode name="seq_length" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_1.ogg" />
+	<opcode name="seq_position" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_2.ogg" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_3.ogg" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_4.ogg" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_5.ogg" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_6.ogg" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_7.ogg" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_8.ogg" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_9.ogg" />
+	<opcode name="seq_position" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_MP_10.ogg" />
+	<opcode name="seq_position" value="10" />
+</region>
+<group>
+	<opcode name="volume" value="-3" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="key" value="43" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="30" />
+	<opcode name="seq_length" value="6" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_PP_1.ogg" />
+	<opcode name="seq_position" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_PP_2.ogg" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_PP_3.ogg" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_PP_4.ogg" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_PP_5.ogg" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\loTom_OH_PP_6.ogg" />
+	<opcode name="seq_position" value="6" />
+</region>

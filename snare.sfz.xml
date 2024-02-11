@@ -1,0 +1,737 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="amp_veltrack" value="98" />
+	<opcode name="key" value="40" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="101" />
+	<opcode name="hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_FF_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.12" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_FF_2.ogg" />
+	<opcode name="lorand" value="0.12" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_FF_3.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.36" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_FF_4.ogg" />
+	<opcode name="lorand" value="0.36" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_FF_5.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.60" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_FF_6.ogg" />
+	<opcode name="lorand" value="0.60" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_FF_7.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.84" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_FF_8.ogg" />
+	<opcode name="lorand" value="0.84" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="98" />
+	<opcode name="key" value="40" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="60" />
+	<opcode name="hivel" value="100" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.08" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_2.ogg" />
+	<opcode name="lorand" value="0.08" />
+	<opcode name="hirand" value="0.16" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_3.ogg" />
+	<opcode name="lorand" value="0.16" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_4.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.32" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_5.ogg" />
+	<opcode name="lorand" value="0.32" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_6.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_7.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.56" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_8.ogg" />
+	<opcode name="lorand" value="0.56" />
+	<opcode name="hirand" value="0.64" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_9.ogg" />
+	<opcode name="lorand" value="0.64" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_10.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.80" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_11.ogg" />
+	<opcode name="lorand" value="0.80" />
+	<opcode name="hirand" value="0.90" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_F_12.ogg" />
+	<opcode name="lorand" value="0.90" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="94" />
+	<opcode name="key" value="40" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="30" />
+	<opcode name="hivel" value="59" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.07" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_2.ogg" />
+	<opcode name="lorand" value="0.07" />
+	<opcode name="hirand" value="0.14" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_3.ogg" />
+	<opcode name="lorand" value="0.14" />
+	<opcode name="hirand" value="0.21" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_4.ogg" />
+	<opcode name="lorand" value="0.21" />
+	<opcode name="hirand" value="0.28" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_5.ogg" />
+	<opcode name="lorand" value="0.28" />
+	<opcode name="hirand" value="0.35" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_6.ogg" />
+	<opcode name="lorand" value="0.35" />
+	<opcode name="hirand" value="0.42" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_7.ogg" />
+	<opcode name="lorand" value="0.42" />
+	<opcode name="hirand" value="0.49" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_8.ogg" />
+	<opcode name="lorand" value="0.49" />
+	<opcode name="hirand" value="0.56" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_9.ogg" />
+	<opcode name="lorand" value="0.56" />
+	<opcode name="hirand" value="0.63" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_10.ogg" />
+	<opcode name="lorand" value="0.63" />
+	<opcode name="hirand" value="0.70" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_11.ogg" />
+	<opcode name="lorand" value="0.70" />
+	<opcode name="hirand" value="0.77" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_12.ogg" />
+	<opcode name="lorand" value="0.77" />
+	<opcode name="hirand" value="0.84" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_13.ogg" />
+	<opcode name="lorand" value="0.84" />
+	<opcode name="hirand" value="0.93" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_MP_14.ogg" />
+	<opcode name="lorand" value="0.93" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="98" />
+	<opcode name="key" value="40" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="29" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.1" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_2.ogg" />
+	<opcode name="lorand" value="0.1" />
+	<opcode name="hirand" value="0.2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_3.ogg" />
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.3" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_4.ogg" />
+	<opcode name="lorand" value="0.3" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_5.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_6.ogg" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_7.ogg" />
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.7" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_8.ogg" />
+	<opcode name="lorand" value="0.7" />
+	<opcode name="hirand" value="0.8" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_9.ogg" />
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="0.9" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare_OH_Ghost_10.ogg" />
+	<opcode name="lorand" value="0.9" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="98" />
+	<opcode name="volume" value="-4" />
+	<opcode name="key" value="39" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="40" />
+	<opcode name="hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.1" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_2.ogg" />
+	<opcode name="lorand" value="0.1" />
+	<opcode name="hirand" value="0.2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_3.ogg" />
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.3" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_4.ogg" />
+	<opcode name="lorand" value="0.3" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_5.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_6.ogg" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_7.ogg" />
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.7" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_8.ogg" />
+	<opcode name="lorand" value="0.7" />
+	<opcode name="hirand" value="0.8" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_9.ogg" />
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="0.9" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_F_10.ogg" />
+	<opcode name="lorand" value="0.9" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="98" />
+	<opcode name="volume" value="-4" />
+	<opcode name="key" value="39" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="39" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_P_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_P_2.ogg" />
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_P_3.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_P_4.ogg" />
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.8" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareOFF_OH_P_5.ogg" />
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="98" />
+	<opcode name="volume" value="-11" />
+	<opcode name="key" value="41" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="127" />
+	<opcode name="seq_length" value="10" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_1.ogg" />
+	<opcode name="seq_position" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_2.ogg" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_3.ogg" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_4.ogg" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_5.ogg" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_6.ogg" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_7.ogg" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_8.ogg" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_9.ogg" />
+	<opcode name="seq_position" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snareStick_OH_F_10.ogg" />
+	<opcode name="seq_position" value="10" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="volume" value="-2" />
+	<opcode name="key" value="38" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="101" />
+	<opcode name="hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_FF_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.12" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_FF_2.ogg" />
+	<opcode name="lorand" value="0.12" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_FF_3.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.36" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_FF_4.ogg" />
+	<opcode name="lorand" value="0.36" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_FF_5.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.60" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_FF_6.ogg" />
+	<opcode name="lorand" value="0.60" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_FF_7.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.84" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_FF_8.ogg" />
+	<opcode name="lorand" value="0.84" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="volume" value="-2" />
+	<opcode name="key" value="38" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="60" />
+	<opcode name="hivel" value="100" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.08" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_2.ogg" />
+	<opcode name="lorand" value="0.08" />
+	<opcode name="hirand" value="0.16" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_3.ogg" />
+	<opcode name="lorand" value="0.16" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_4.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.32" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_5.ogg" />
+	<opcode name="lorand" value="0.32" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_6.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_7.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.56" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_8.ogg" />
+	<opcode name="lorand" value="0.56" />
+	<opcode name="hirand" value="0.64" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_9.ogg" />
+	<opcode name="lorand" value="0.64" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_10.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.80" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_11.ogg" />
+	<opcode name="lorand" value="0.80" />
+	<opcode name="hirand" value="0.90" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_F_12.ogg" />
+	<opcode name="lorand" value="0.90" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="volume" value="-2" />
+	<opcode name="key" value="38" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="30" />
+	<opcode name="hivel" value="59" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.07" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_2.ogg" />
+	<opcode name="lorand" value="0.07" />
+	<opcode name="hirand" value="0.14" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_3.ogg" />
+	<opcode name="lorand" value="0.14" />
+	<opcode name="hirand" value="0.21" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_4.ogg" />
+	<opcode name="lorand" value="0.21" />
+	<opcode name="hirand" value="0.28" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_5.ogg" />
+	<opcode name="lorand" value="0.28" />
+	<opcode name="hirand" value="0.35" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_6.ogg" />
+	<opcode name="lorand" value="0.35" />
+	<opcode name="hirand" value="0.42" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_7.ogg" />
+	<opcode name="lorand" value="0.42" />
+	<opcode name="hirand" value="0.49" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_8.ogg" />
+	<opcode name="lorand" value="0.49" />
+	<opcode name="hirand" value="0.56" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_9.ogg" />
+	<opcode name="lorand" value="0.56" />
+	<opcode name="hirand" value="0.63" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_10.ogg" />
+	<opcode name="lorand" value="0.63" />
+	<opcode name="hirand" value="0.70" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_11.ogg" />
+	<opcode name="lorand" value="0.70" />
+	<opcode name="hirand" value="0.77" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_12.ogg" />
+	<opcode name="lorand" value="0.77" />
+	<opcode name="hirand" value="0.84" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_13.ogg" />
+	<opcode name="lorand" value="0.84" />
+	<opcode name="hirand" value="0.93" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_MP_14.ogg" />
+	<opcode name="lorand" value="0.93" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="volume" value="-2" />
+	<opcode name="key" value="38" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="29" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.1" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_2.ogg" />
+	<opcode name="lorand" value="0.1" />
+	<opcode name="hirand" value="0.2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_3.ogg" />
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.3" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_4.ogg" />
+	<opcode name="lorand" value="0.3" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_5.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_6.ogg" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_7.ogg" />
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.7" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_8.ogg" />
+	<opcode name="lorand" value="0.7" />
+	<opcode name="hirand" value="0.8" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_9.ogg" />
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="0.9" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2_OH_Ghost_10.ogg" />
+	<opcode name="lorand" value="0.9" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="98" />
+	<opcode name="volume" value="-2" />
+	<opcode name="key" value="37" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="40" />
+	<opcode name="hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.1" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_2.ogg" />
+	<opcode name="lorand" value="0.1" />
+	<opcode name="hirand" value="0.2" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_3.ogg" />
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.3" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_4.ogg" />
+	<opcode name="lorand" value="0.3" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_5.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.5" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_6.ogg" />
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.6" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_7.ogg" />
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.7" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_8.ogg" />
+	<opcode name="lorand" value="0.7" />
+	<opcode name="hirand" value="0.8" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_9.ogg" />
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="0.9" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_F_10.ogg" />
+	<opcode name="lorand" value="0.9" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="amp_veltrack" value="98" />
+	<opcode name="volume" value="-2" />
+	<opcode name="key" value="37" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="39" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_P_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.18" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_P_2.ogg" />
+	<opcode name="lorand" value="0.18" />
+	<opcode name="hirand" value="0.26" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_P_3.ogg" />
+	<opcode name="lorand" value="0.26" />
+	<opcode name="hirand" value="0.45" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_P_4.ogg" />
+	<opcode name="lorand" value="0.45" />
+	<opcode name="hirand" value="0.68" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_P_5.ogg" />
+	<opcode name="lorand" value="0.68" />
+	<opcode name="hirand" value="0.85" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\snare2OFF_OH_P_6.ogg" />
+	<opcode name="lorand" value="0.85" />
+	<opcode name="hirand" value="1" />
+</region>

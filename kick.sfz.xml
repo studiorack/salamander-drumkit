@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="volume" value="-7" />
+	<opcode name="amp_veltrack" value="93" />
+	<opcode name="key" value="35" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.08" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_2.ogg" />
+	<opcode name="lorand" value="0.08" />
+	<opcode name="hirand" value="0.16" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_3.ogg" />
+	<opcode name="lorand" value="0.16" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_4.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.32" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_5.ogg" />
+	<opcode name="lorand" value="0.32" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_6.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_7.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.56" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_8.ogg" />
+	<opcode name="lorand" value="0.56" />
+	<opcode name="hirand" value="0.64" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_9.ogg" />
+	<opcode name="lorand" value="0.64" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_10.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.80" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_11.ogg" />
+	<opcode name="lorand" value="0.80" />
+	<opcode name="hirand" value="0.90" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_FF_12.ogg" />
+	<opcode name="lorand" value="0.90" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-7" />
+	<opcode name="amp_veltrack" value="93" />
+	<opcode name="key" value="35" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="40" />
+	<opcode name="hivel" value="79" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.09" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_2.ogg" />
+	<opcode name="lorand" value="0.09" />
+	<opcode name="hirand" value="0.18" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_3.ogg" />
+	<opcode name="lorand" value="0.18" />
+	<opcode name="hirand" value="0.27" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_4.ogg" />
+	<opcode name="lorand" value="0.27" />
+	<opcode name="hirand" value="0.36" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_5.ogg" />
+	<opcode name="lorand" value="0.36" />
+	<opcode name="hirand" value="0.46" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_6.ogg" />
+	<opcode name="lorand" value="0.46" />
+	<opcode name="hirand" value="0.54" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_7.ogg" />
+	<opcode name="lorand" value="0.54" />
+	<opcode name="hirand" value="0.63" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_8.ogg" />
+	<opcode name="lorand" value="0.63" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_9.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.81" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_10.ogg" />
+	<opcode name="lorand" value="0.81" />
+	<opcode name="hirand" value="0.9" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_F_11.ogg" />
+	<opcode name="lorand" value="0.9" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-7" />
+	<opcode name="amp_veltrack" value="93" />
+	<opcode name="key" value="35" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="39" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.11" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_2.ogg" />
+	<opcode name="lorand" value="0.11" />
+	<opcode name="hirand" value="0.22" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_3.ogg" />
+	<opcode name="lorand" value="0.22" />
+	<opcode name="hirand" value="0.33" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_4.ogg" />
+	<opcode name="lorand" value="0.33" />
+	<opcode name="hirand" value="0.44" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_5.ogg" />
+	<opcode name="lorand" value="0.44" />
+	<opcode name="hirand" value="0.55" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_6.ogg" />
+	<opcode name="lorand" value="0.55" />
+	<opcode name="hirand" value="0.66" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_7.ogg" />
+	<opcode name="lorand" value="0.66" />
+	<opcode name="hirand" value="0.77" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_8.ogg" />
+	<opcode name="lorand" value="0.77" />
+	<opcode name="hirand" value="0.89" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick_OH_P_9.ogg" />
+	<opcode name="lorand" value="0.89" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-7" />
+	<opcode name="amp_veltrack" value="93" />
+	<opcode name="key" value="36" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="127" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.08" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_2.ogg" />
+	<opcode name="lorand" value="0.08" />
+	<opcode name="hirand" value="0.16" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_3.ogg" />
+	<opcode name="lorand" value="0.16" />
+	<opcode name="hirand" value="0.24" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_4.ogg" />
+	<opcode name="lorand" value="0.24" />
+	<opcode name="hirand" value="0.32" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_5.ogg" />
+	<opcode name="lorand" value="0.32" />
+	<opcode name="hirand" value="0.4" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_6.ogg" />
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.48" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_7.ogg" />
+	<opcode name="lorand" value="0.48" />
+	<opcode name="hirand" value="0.56" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_8.ogg" />
+	<opcode name="lorand" value="0.56" />
+	<opcode name="hirand" value="0.64" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_9.ogg" />
+	<opcode name="lorand" value="0.64" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_10.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.80" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_11.ogg" />
+	<opcode name="lorand" value="0.80" />
+	<opcode name="hirand" value="0.90" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_FF_12.ogg" />
+	<opcode name="lorand" value="0.90" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-7" />
+	<opcode name="amp_veltrack" value="93" />
+	<opcode name="key" value="36" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="40" />
+	<opcode name="hivel" value="79" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.09" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_2.ogg" />
+	<opcode name="lorand" value="0.09" />
+	<opcode name="hirand" value="0.18" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_3.ogg" />
+	<opcode name="lorand" value="0.18" />
+	<opcode name="hirand" value="0.27" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_4.ogg" />
+	<opcode name="lorand" value="0.27" />
+	<opcode name="hirand" value="0.36" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_5.ogg" />
+	<opcode name="lorand" value="0.36" />
+	<opcode name="hirand" value="0.46" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_6.ogg" />
+	<opcode name="lorand" value="0.46" />
+	<opcode name="hirand" value="0.54" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_7.ogg" />
+	<opcode name="lorand" value="0.54" />
+	<opcode name="hirand" value="0.63" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_8.ogg" />
+	<opcode name="lorand" value="0.63" />
+	<opcode name="hirand" value="0.72" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_9.ogg" />
+	<opcode name="lorand" value="0.72" />
+	<opcode name="hirand" value="0.81" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_10.ogg" />
+	<opcode name="lorand" value="0.81" />
+	<opcode name="hirand" value="0.9" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_F_11.ogg" />
+	<opcode name="lorand" value="0.9" />
+	<opcode name="hirand" value="1" />
+</region>
+<group>
+	<opcode name="volume" value="-7" />
+	<opcode name="amp_veltrack" value="93" />
+	<opcode name="key" value="36" />
+	<opcode name="loop_mode" value="one_shot" />
+	<opcode name="lovel" value="1" />
+	<opcode name="hivel" value="39" />
+</group>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_1.ogg" />
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.11" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_2.ogg" />
+	<opcode name="lorand" value="0.11" />
+	<opcode name="hirand" value="0.22" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_3.ogg" />
+	<opcode name="lorand" value="0.22" />
+	<opcode name="hirand" value="0.33" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_4.ogg" />
+	<opcode name="lorand" value="0.33" />
+	<opcode name="hirand" value="0.44" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_5.ogg" />
+	<opcode name="lorand" value="0.44" />
+	<opcode name="hirand" value="0.55" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_6.ogg" />
+	<opcode name="lorand" value="0.55" />
+	<opcode name="hirand" value="0.66" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_7.ogg" />
+	<opcode name="lorand" value="0.66" />
+	<opcode name="hirand" value="0.77" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_8.ogg" />
+	<opcode name="lorand" value="0.77" />
+	<opcode name="hirand" value="0.89" />
+</region>
+<region>
+	<opcode name="sample" value="Samples\kick2_OH_P_9.ogg" />
+	<opcode name="lorand" value="0.89" />
+	<opcode name="hirand" value="1" />
+</region>

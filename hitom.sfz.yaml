@@ -1,0 +1,519 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '12'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_8.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_9.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_10.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_11.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '11'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_FF_12.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '12'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '31'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_8.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_9.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_F_10.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '10'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '30'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '9'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_8.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: Samples\hiTom_OH_P_9.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '9'
+
