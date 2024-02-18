@@ -70,7 +70,7 @@
 	<opcode name="amplitude_oncc20" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc21" value="200" />
-	<opcode name="master_label" value="18x18 kick" />
+	<opcode name="master_label" value="18x18'' kick" />
 </global>
 <master>
 	<opcode name="key" value="35" />
@@ -568,7 +568,7 @@
 	<opcode name="amplitude_oncc22" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc23" value="200" />
-	<opcode name="master_label" value="14x5 snare birchstaves" />
+	<opcode name="master_label" value="14x5'' snare birchstaves" />
 </global>
 <master>
 	<opcode name="key" value="40" />
@@ -1044,7 +1044,7 @@
 	<opcode name="key" value="38" />
 	<opcode name="amp_veltrack" value="100" />
 	<opcode name="group_volume" value="-2" />
-	<opcode name="master_label" value="14x6 snare2 birch" />
+	<opcode name="master_label" value="14x6'' snare2 birch" />
 </master>
 <group>
 	<opcode name="group_label" value="snare2_OH_Ghost" />
@@ -1334,7 +1334,7 @@
 	<opcode name="key" value="37" />
 	<opcode name="amp_veltrack" value="98" />
 	<opcode name="group_volume" value="-2" />
-	<opcode name="master_label" value="14x6 snare2 birch" />
+	<opcode name="master_label" value="14x6'' snare2 birch" />
 </master>
 <group>
 	<opcode name="group_label" value="snare2OFF_OH_P" />
@@ -1448,7 +1448,7 @@
 	<opcode name="amplitude_oncc24" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc25" value="200" />
-	<opcode name="master_label" value="12x7 racktom" />
+	<opcode name="master_label" value="12x7'' racktom" />
 </global>
 <master>
 	<opcode name="key" value="45" />
@@ -1662,7 +1662,7 @@
 	<opcode name="amplitude_oncc26" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc27" value="200" />
-	<opcode name="master_label" value="14x14 floortom" />
+	<opcode name="master_label" value="14x14'' floortom" />
 </global>
 <master>
 	<opcode name="key" value="43" />
@@ -1834,7 +1834,7 @@
 	<opcode name="amplitude_oncc28" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc29" value="200" />
-	<opcode name="master_label" value="Stagg 14 SH hihat" />
+	<opcode name="master_label" value="Stagg 14'' SH hihat" />
 </global>
 <master>
 	<opcode name="key" value="42" />
@@ -2885,7 +2885,7 @@
 	<opcode name="amplitude_oncc30" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc31" value="200" />
-	<opcode name="master_label" value="Paiste 20 pst5 medium ride" />
+	<opcode name="master_label" value="Paiste 20'' pst5 medium ride" />
 </global>
 <master>
 	<opcode name="key" value="52" />
@@ -3026,7 +3026,7 @@
 	<opcode name="amplitude_oncc32" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc33" value="200" />
-	<opcode name="master_label" value="Stagg 20 SH medium ride" />
+	<opcode name="master_label" value="Stagg 20'' SH medium ride" />
 </global>
 <master>
 	<opcode name="key" value="48" />
@@ -3298,7 +3298,7 @@
 	<opcode name="amplitude_oncc34" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc35" value="200" />
-	<opcode name="master_label" value="Paiste 18 Innovations medium crash" />
+	<opcode name="master_label" value="Paiste 18'' Innovations medium crash" />
 </global>
 <master>
 	<opcode name="key" value="55" />
@@ -3408,7 +3408,7 @@
 	<opcode name="amplitude_oncc36" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc37" value="200" />
-	<opcode name="master_label" value="Paiste 20 Rude thin crash" />
+	<opcode name="master_label" value="Paiste 20'' Rude thin crash" />
 </global>
 <master>
 	<opcode name="key" value="57" />
@@ -3524,7 +3524,7 @@
 	<opcode name="amplitude_oncc38" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc39" value="200" />
-	<opcode name="master_label" value="Stagg 16 SH crash" />
+	<opcode name="master_label" value="Stagg 16'' SH crash" />
 </global>
 <master>
 	<opcode name="key" value="62" />
@@ -3590,7 +3590,7 @@
 	<opcode name="amplitude_oncc40" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc41" value="200" />
-	<opcode name="master_label" value="Masterworks 20 Custom china" />
+	<opcode name="master_label" value="Masterworks 20'' Custom china" />
 </global>
 <master>
 	<opcode name="key" value="59" />
@@ -3675,7 +3675,7 @@
 	<opcode name="amplitude_oncc42" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc43" value="200" />
-	<opcode name="master_label" value="Paiste 18 Innovations china" />
+	<opcode name="master_label" value="Paiste 18'' Innovations china" />
 </global>
 <master>
 	<opcode name="key" value="60" />
@@ -3748,7 +3748,7 @@
 	<opcode name="amplitude_oncc44" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc45" value="200" />
-	<opcode name="master_label" value="Paiste 8 pst5 splash" />
+	<opcode name="master_label" value="Paiste 8'' pst5 splash" />
 </global>
 <master>
 	<opcode name="key" value="63" />
@@ -3833,7 +3833,7 @@
 	<opcode name="amplitude_oncc46" value="200" />
 	<opcode name="pan" value="-100" />
 	<opcode name="pan_oncc47" value="200" />
-	<opcode name="master_label" value="Paiste 6 accent" />
+	<opcode name="master_label" value="Paiste 6'' accent" />
 </global>
 <master>
 	<opcode name="key" value="64" />

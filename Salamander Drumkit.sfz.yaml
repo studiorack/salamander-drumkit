@@ -349,7 +349,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: 18x18 kick
+          value: 18x18'' kick
   - type: element
     name: master
     elements:
@@ -2328,7 +2328,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: 14x5 snare birchstaves
+          value: 14x5'' snare birchstaves
   - type: element
     name: master
     elements:
@@ -4141,7 +4141,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: 14x6 snare2 birch
+          value: 14x6'' snare2 birch
   - type: element
     name: group
     elements:
@@ -5248,7 +5248,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: 14x6 snare2 birch
+          value: 14x6'' snare2 birch
   - type: element
     name: group
     elements:
@@ -5685,7 +5685,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: 12x7 racktom
+          value: 12x7'' racktom
   - type: element
     name: master
     elements:
@@ -6503,7 +6503,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: 14x14 floortom
+          value: 14x14'' floortom
   - type: element
     name: master
     elements:
@@ -7160,7 +7160,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Stagg 14 SH hihat
+          value: Stagg 14'' SH hihat
   - type: element
     name: master
     elements:
@@ -11218,7 +11218,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Paiste 20 pst5 medium ride
+          value: Paiste 20'' pst5 medium ride
   - type: element
     name: master
     elements:
@@ -11755,7 +11755,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Stagg 20 SH medium ride
+          value: Stagg 20'' SH medium ride
   - type: element
     name: master
     elements:
@@ -12800,7 +12800,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Paiste 18 Innovations medium crash
+          value: Paiste 18'' Innovations medium crash
   - type: element
     name: master
     elements:
@@ -13224,7 +13224,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Paiste 20 Rude thin crash
+          value: Paiste 20'' Rude thin crash
   - type: element
     name: master
     elements:
@@ -13671,7 +13671,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Stagg 16 SH crash
+          value: Stagg 16'' SH crash
   - type: element
     name: master
     elements:
@@ -13924,7 +13924,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Masterworks 20 Custom china
+          value: Masterworks 20'' Custom china
   - type: element
     name: master
     elements:
@@ -14251,7 +14251,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Paiste 18 Innovations china
+          value: Paiste 18'' Innovations china
   - type: element
     name: master
     elements:
@@ -14532,7 +14532,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Paiste 8 pst5 splash
+          value: Paiste 8'' pst5 splash
   - type: element
     name: master
     elements:
@@ -14859,7 +14859,7 @@ elements:
         name: opcode
         attributes:
           name: master_label
-          value: Paiste 6 accent
+          value: Paiste 6'' accent
   - type: element
     name: master
     elements:
